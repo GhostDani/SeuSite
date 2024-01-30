@@ -366,87 +366,114 @@
     margin-bottom: 45px;
   }
 }.u-section-3 .u-sheet-1 {
-  min-height: 113px;
+  min-height: 139px;
 }
 
 .u-section-3 .u-image-1 {
   width: 103px;
   height: 89px;
-  margin: 10px auto 0 666px;
+  margin: 17px auto 0 497px;
 }
 
 .u-section-3 .u-image-2 {
   width: 266px;
   height: 87px;
-  margin: -92px auto 12px 371px;
+  margin: -88px auto 0 149px;
+}
+
+.u-section-3 .u-image-3 {
+  width: 245px;
+  height: 67px;
+  margin: -77px 217px 44px auto;
 }
 
 @media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 150px;
+  }
+
   .u-section-3 .u-image-1 {
-    position: relative;
-    margin-left: 566px;
+    margin-top: 36px;
+    margin-left: 391px;
   }
 
   .u-section-3 .u-image-2 {
-    margin-left: 271px;
+    margin-top: -89px;
+    margin-left: 78px;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-top: -76px;
+    margin-right: 154px;
+    margin-bottom: 36px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 104px;
+    min-height: 144px;
   }
 
   .u-section-3 .u-image-1 {
-    margin-top: 8px;
-    margin-right: 214px;
     margin-left: auto;
   }
 
   .u-section-3 .u-image-2 {
-    margin-top: -80px;
-    margin-bottom: 1px;
-    margin-left: 152px;
+    margin-top: -87px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-top: -78px;
+    margin-right: 15px;
+    margin-bottom: 30px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 886px;
-  }
-
   .u-section-3 .u-image-1 {
     position: relative;
     margin-left: 300px;
   }
 
   .u-section-3 .u-image-2 {
+    margin-top: 20px;
     margin-left: auto;
+  }
+
+  .u-section-3 .u-image-3 {
+    margin-top: 20px;
+    margin-bottom: 44px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 77px;
+    min-height: 107px;
   }
 
   .u-section-3 .u-image-1 {
     width: 69px;
     height: 59px;
-    margin-top: 9px;
-    margin-right: 51px;
-    margin-left: auto;
+    margin-top: 24px;
+    margin-left: 124px;
   }
 
   .u-section-3 .u-image-2 {
-    width: 230px;
-    height: 68px;
-    margin-top: -64px;
-    margin-bottom: 5px;
-    margin-left: 0;
+    width: 172px;
+    height: 51px;
+    margin-top: -50px;
+    margin-left: -34px;
+  }
+
+  .u-section-3 .u-image-3 {
+    width: 170px;
+    height: 42px;
+    margin-top: -51px;
+    margin-right: -12px;
+    margin-bottom: 33px;
   }
 }
-
 .btn-whatsapp a {
 	color:#fff; 
 	text-decoration:none; 
