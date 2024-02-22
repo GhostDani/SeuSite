@@ -26,7 +26,6 @@
 dialog{
 
   border: 10px;
-  
   background-color: rgba(34, 116, 192, 0);
   color: #fff;
   width: 500px;
@@ -100,6 +99,8 @@ dialog{
   margin: 7px auto -29px;
   padding: 19px 48px 19px 47px;
 }
+
+
 
 @media (max-width: 1199px) {
   .u-section-1 .u-image-1 {
